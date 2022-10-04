@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "name": "Sunflower",
+      "price": "3444",
+      "quantity": "5454",
+      "image": "https://picsum.photos/200/300",
+      "id": 1
+    },
+    {
+      "name": "gogpf",
+      "price": "45",
+      "quantity": "4",
+      "image": "https://picsum.photos/200/300",
+      "id": 2
+    }
+  ]
+}
