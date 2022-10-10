@@ -29,9 +29,20 @@ export default function Nav() {
         <li className="nav-item">
           <Link className="nav-link active" aria-current="page" to="/products">Products</Link>
         </li>
+
+        <li className="nav-item">
+          <Link className="nav-link active" aria-current="page" to="/signup">Sign Up</Link>
+        </li>
+
+        <li className="nav-item">
+          <Link className="nav-link active" aria-current="page" to="/reg">Registration</Link>
+        </li>
+
         <li className="nav-item">
           <Link className="nav-link active" aria-current="page" to="/products">Cart{count>0 && <span>({count})</span>} </Link>
         </li>
+
+        
         
         
           

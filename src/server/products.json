@@ -4,7 +4,7 @@
       "name": "Sunflower",
       "price": "3444",
       "quantity": "5454",
-      "image": "https://picsum.photos/200/300",
+      "image": "https://picsum.photos/800/300",
       "id": 1
     },
     {
@@ -13,6 +13,48 @@
       "quantity": "4",
       "image": "https://picsum.photos/200/300",
       "id": 2
+    },
+    {
+      "name": "Sunflower",
+      "price": "67",
+      "quantity": "32",
+      "image": "https://picsum.photos/200/100",
+      "id": 3
+    },
+    {
+      "name": "flowers",
+      "price": "2342",
+      "quantity": "2222",
+      "image": "https://picsum.photos/200/300",
+      "id": 4
+    },
+    {
+      "name": "Rose",
+      "price": "12",
+      "quantity": "23",
+      "image": "https://picsum.photos/500/500",
+      "id": 5
+    },
+    {
+      "name": "Rohit",
+      "price": "12000",
+      "quantity": "32",
+      "image": "https://picsum.photos/500/400",
+      "id": 6
+    },
+    {
+      "name": "gullu",
+      "price": "23465",
+      "quantity": "34",
+      "image": "https://picsum.photos/700/300",
+      "id": 7
+    },
+    {
+      "name": "Tiger",
+      "price": "677",
+      "quantity": "45",
+      "image": "https://picsum.photos/800/700",
+      "id": 8
     }
   ]
 }
